@@ -55,10 +55,11 @@ export function Drink_Panel({
           alt="Screenshots of the dashboard project showing desktop version"
           priority={true}
         />
+        <p className={`ml-2 ${fredoka.className} extrabold text-xl`}>
+          Votes : {votedcount}
+        </p>
       </button>
-      <p className={`ml-2 ${fredoka.className} extrabold text-xl`}>
-        Votes : {votedcount}
-      </p>
+      
     </div>
   );
 
