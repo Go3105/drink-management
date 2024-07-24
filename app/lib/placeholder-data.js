@@ -215,7 +215,7 @@ const drink = [
   },
   {
     id: 'd22',
-    name: 'budou_karupisu',
+    name: 'budouandokarupisu',
     japanesename: 'ぶどう&カルピス',
     voted: 0,
     price: 150,
