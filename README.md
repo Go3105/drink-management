@@ -1,6 +1,17 @@
-## Next.js App Router Course - Starter
+# 飲み物投票サイト
 
-This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
+田原・清研究室 (ホームページ:http://www.ohsuga.lab.uec.ac.jp)
+  
+## 目次
+- [概要](#概要)
+- [使用例](#使用例)
+- [全体構成](#全体構成)
 
-For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
-# drink-manager-app-
+        
+## 概要 
+
+
+## 使用例
+
+## 全体構成
+
