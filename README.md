@@ -1,6 +1,6 @@
 # 飲み物投票サイト
 
-田原・清研究室 (ホームページ:http://www.ohsuga.lab.uec.ac.jp)
+田原・清研究室 (http://www.ohsuga.lab.uec.ac.jp)
   
 ## 目次
 - [概要](#概要)
@@ -9,7 +9,6 @@
 
         
 ## 概要 
-
 
 ## 使用例
 
